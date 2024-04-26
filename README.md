@@ -11,3 +11,6 @@ Matching Algorithm: Utilizes NLP algorithms to match candidate resumes with job 
 Evaluation Metrics: Provides functions for evaluating the performance of the resume screening model, including metrics such as precision, recall, and F1-score.
 
 Deployment: Includes scripts or guidelines for deploying the trained model in a production environment, either as a standalone application or integrated into existing HR systems.
+
+
+![download](https://github.com/PrashantC-9895/Resume-Screening-/assets/143035523/0115a6e3-ab5c-496c-9dba-7133aa0f94d7)
